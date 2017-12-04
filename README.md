@@ -1,5 +1,5 @@
 # Big-O Notation
-- o of 1 which is constant and best --> O(1) e.g: given index of an arry, get its value
+- O of 1 which is constant and best --> O(1) e.g: given index of an arry, get its value
 - O of logn which logarithmic which is 2nd best after O(1) --> O(log2n)
 - O of n  which is 3rd best which is linear --> O(n) e.g: find the value from an array and not given the index, so have to possibly loop through all indexes of that array
 - O of nlogn which is 4th best --> O(nlogn)
